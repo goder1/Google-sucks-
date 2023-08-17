@@ -3,7 +3,7 @@ from PyQt5.QtWidgets import QApplication, QMainWindow, QMessageBox
 import sys
 import time
 from random import randint
-
+#хуйня переделывай
 
 class Ui_MainWindow(object):
     def __init__(self):
