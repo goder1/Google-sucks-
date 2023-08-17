@@ -1,0 +1,19 @@
+<RCC>
+  <qresource prefix="iconsss">
+    <file>icon/menu.png</file>
+    <file>icon/analytics_active.png</file>
+    <file>icon/calendar_active.png</file>
+    <file>icon/gear_active.png</file>
+    <file>icon/git_active.png</file>
+    <file>icon/home_active.png</file>
+    <file>icon/medal_active.png</file>
+    <file>icon/paper_active.png</file>
+    <file>icon/calendar.png</file>
+    <file>icon/analytics.png</file>
+    <file>icon/gear.png</file>
+    <file>icon/git.png</file>
+    <file>icon/home.png</file>
+    <file>icon/medal-.png</file>
+    <file>icon/paper.png</file>
+  </qresource>
+</RCC>
